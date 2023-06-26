@@ -1,0 +1,2 @@
+how to delete column permanently from DataFrame,,,,,
+df1.drop('Score1', axis=1, inplace=True)
